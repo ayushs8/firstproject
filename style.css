@@ -1,0 +1,159 @@
+
+
+
+
+body{
+  
+
+
+background-color:#FFFFFF;
+margin-top:0px; 
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+padding: 0px;
+
+  font-family:arial;
+  font-size:24px; 
+  
+}
+h1{
+  
+width: 100%;
+  padding: 45px 45px 45px 45px;
+  
+  background-color: #0ec3ff;
+ color: white;
+ 
+ margin-top: 0px;
+ margin-left: 0px;
+ margin-bottom:0px;
+ margin-right:0px;
+ text-align: center;
+ font-size: 50px;  
+
+
+  }
+  
+  .cla1{
+    text-align:left;
+    margin:45px;
+    color: black;
+    font-style: arial;
+    font-weight: bold;
+    font-size: 45px;
+    
+    
+  
+
+  }
+ 
+
+   #box5 
+   {
+     max-width: 500px;
+    width: 100%;
+ }
+   #box6{
+     max-width: 500px;
+     width: 100%;
+ }
+   #box7{
+ max-width: 200px;
+  width: 100%;
+ }
+  #box8 {
+   max-width: 200px;
+   width: 100%;
+ }
+  #box9 {
+   max-width: 200px;
+   width: 100%;
+ }
+  #box10{
+  max-width: 200px;
+   width: 100%;
+ }
+ 
+  #user {
+  max-width: 200px;
+   width: 100%;
+ }
+ #box11{
+  max-width:25px;
+width:100%;
+ }
+ 
+ 
+
+#box14
+{
+max-width: 200px;
+ width: 100%;
+}
+
+#box2 {
+max-width: 200px;
+width: 100%;
+} 
+  
+
+#box3{
+max-width: 200px;
+  width: 100%;
+ 
+}
+#box15{
+  
+  max-width: 200px;
+  width: 100%;
+}
+
+
+
+
+input{
+  
+  padding:15px;
+}
+#box16{
+ 
+  background-color:#000000;
+padding: 14px 25px 14px 25px ;
+  color:white ;
+  font-weight:bold;
+  font-size: 31px;
+  
+border-radius: 50px;
+  
+}
+input:hover{
+background-color:#FFFF00;
+}
+
+input[type=radio] {
+    border:4px;
+ max-width: 100px;
+   width:100%; 
+    height: 30px;
+}
+
+footer{
+  
+  padding: 45px 45px 45px 45px;
+  background-color: #FDDA0D;
+width: 100%;
+margin:0px;
+  
+}
+
+  #cc1
+  {
+    background-color:#FDDA0D;
+    padding:30px 45px 30px 45px;
+ width : 100%;
+ 
+  }
+  #box16:active{
+    background-color: slategray;
+  }
