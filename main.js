@@ -78,11 +78,7 @@ function fun2()
 {
 var correct_way=/^[A-Za-z]/;
 var a=document.getElementById("box2").value;
-if(a=="")
-  {
-  document.getElementById("yt").innerHTML="*please fill your last name";
-  return false;
-  }
+
   
 
   if(a.match(correct_way))
@@ -100,11 +96,7 @@ function fun3()
 var correct_way=/^[A-Za-z]/;
 var a=document.getElementById("box3").value;
 
-  if(a=="")
-  {
-  document.getElementById("yt2").innerHTML="*please fill your last name";
-  return false;
-  }
+  
 
   if(a.match(correct_way))
   true;
@@ -121,12 +113,6 @@ function fun4()
 var correct_way=/^[A-Za-z]/;
 var a=document.getElementById("box7").value;
 
-  if(a=="")
-  {
-  document.getElementById("yt3").innerHTML="*please fill your  city";
-  return false;
-  }
-
   if(a.match(correct_way))
   true;
   else {
@@ -142,11 +128,7 @@ function fun5()
 var correct_way=/^[A-Za-z]/;
 var a=document.getElementById("box9").value;
 
-  if(a=="")
-  {
-  document.getElementById("yt4").innerHTML="*please fill your state";
-  return false;
-  }
+  
 
   if(a.match(correct_way))
   true;
@@ -163,11 +145,7 @@ function fun6()
 var correct_way=/^[A-Za-z]/;
 var a=document.getElementById("box10").value;
 
-  if(a=="")
-  {
-  document.getElementById("yt5").innerHTML="*please fill your  country";
-  return false;
-  }
+ 
 
   if(a.match(correct_way))
   true;
